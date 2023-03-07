@@ -10,4 +10,4 @@ print('{} days remaining in this year'.format(days_remaining))
 EOF
 )
 
-python3 -c "$PYCMD"
+python3 -c "$PYFILE"
